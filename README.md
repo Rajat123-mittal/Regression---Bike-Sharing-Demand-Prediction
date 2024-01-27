@@ -10,7 +10,7 @@ Email id - rajatmittal251@gmail.com
 
 ## About the Project
 
-## #Objective:
+## Objective:
 
 The primary objective of this project is to develop a regression model that accurately predicts the demand for bike sharing based on various factors. By leveraging features such as date, time, weather conditions, and seasonal variations, the model aims to provide insights into the number of bikes rented per hour. The ultimate goal is to optimize bike availability, enhance user experience, and improve operational efficiency for the bike-sharing service.
 
@@ -68,9 +68,15 @@ The project successfully demonstrated the feasibility of using machine learning 
 Some of the key points are:-
 
 High demand in the morning and evening.
+
 Less Demand in the winter season.
+
 Highest demand in june.
+
 Found multicollinearity between temperature and dew point temperature.
+
 Perform linear regression,Lasso Regression,Ridge regression but amongst them i have selected Ridge Regression as i achieved 70% training accuracy and 71% testing accuracy.
+
 There is no use of removing outliers, it affects negatively on model performance.
+
 Overall, the project highlights the potential of machine learning in solving real-world problems and provides a roadmap for future research in this area. The findings of this project can be extended to other cities with similar bike sharing systems, leading to more effective and efficient bike sharing operations, and better outcomes for all stakeholders.
