@@ -9,7 +9,8 @@ Presented By - Rajat Mittal
 Email id - rajatmittal251@gmail.com
 
 ## About the Project
-##Objective:
+
+## #Objective:
 
 The primary objective of this project is to develop a regression model that accurately predicts the demand for bike sharing based on various factors. By leveraging features such as date, time, weather conditions, and seasonal variations, the model aims to provide insights into the number of bikes rented per hour. The ultimate goal is to optimize bike availability, enhance user experience, and improve operational efficiency for the bike-sharing service.
 
@@ -57,13 +58,11 @@ Encode categorical variables like 'Seasons' using one-hot encoding or label enco
 
 Check for and handle missing values in the dataset.
 
-Problem Statement
-Have you ever wondered when the best time of year to book a hotel room is? Or the optimal length of stay in order to get the best daily rate? What if you wanted to predict whether or not a hotel was likely to receive a disproportionately high number of special requests? This hotel booking dataset can help you explore those questions! This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. All personally identifying information has been removed from the data. Explore and analyse the data to discover important factors that govern the bookings.
+## Problem Statement
 
-Required Skills
 Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. It is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes.
 
-Conclusion
+## Conclusion
 The project successfully demonstrated the feasibility of using machine learning techniques to predict bike demand in Seoul.
 
 Some of the key points are:-
