@@ -8,7 +8,7 @@ Presented By - Rajat Mittal
 
 Email id - rajatmittal251@gmail.com
 
-##About the Project
+## About the Project
 ##Objective:
 
 The primary objective of this project is to develop a regression model that accurately predicts the demand for bike sharing based on various factors. By leveraging features such as date, time, weather conditions, and seasonal variations, the model aims to provide insights into the number of bikes rented per hour. The ultimate goal is to optimize bike availability, enhance user experience, and improve operational efficiency for the bike-sharing service.
